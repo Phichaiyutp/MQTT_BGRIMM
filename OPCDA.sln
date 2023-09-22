@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCDA", "OPCDA\OPCDA.csproj", "{4CF46C83-E424-4939-87E7-D9987DC0AA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF46C83-E424-4939-87E7-D9987DC0AA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF46C83-E424-4939-87E7-D9987DC0AA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF46C83-E424-4939-87E7-D9987DC0AA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF46C83-E424-4939-87E7-D9987DC0AA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB0B737-6E62-4289-B829-2E91E0128B65}
+	EndGlobalSection
+EndGlobal
